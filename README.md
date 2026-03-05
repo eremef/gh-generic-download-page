@@ -2,6 +2,10 @@
 
 A single-file, zero-dependency download page for GitHub releases. Drop `index.html` into your repo (or serve it via GitHub Pages) and it instantly becomes a polished, platform-aware download landing page for your app.
 
+## Sample
+
+ ![Sample download page](https://github.com/user-attachments/assets/ba704f43-59eb-491c-a529-c6257f889482)
+
 ## Features
 
 - **Platform detection** — detects the visitor's OS and CPU architecture (x64 / arm64) and highlights the best download automatically.
